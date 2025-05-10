@@ -1,6 +1,6 @@
 <div>
 <!--Header-->
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=gradient&height=300&section=header&text=Hello%20World!)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=gradient&height=300&section=header)
   
 </div>
 
@@ -8,9 +8,9 @@
  <!--Body-->
 
     ## 👀 About Me
-  #### :raising_hand: I am a Cloud Engineer from South Korea.<br/>
-  #### :fire: I aim to become a Cloud AI Engineer.<br/>
-  #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
+  #### :raising_hand: <br/>
+  #### :fire: <br/>
+  #### :mortar_board: 
   <br/>
   <br/>
   
